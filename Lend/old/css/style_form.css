@@ -1,0 +1,334 @@
+/*##############################*/
+
+/*FORM order*/
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #999;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #999;
+}
+
+
+@media only screen and (min-width:200px) and (max-width:580px)
+{
+	.formularz
+	{
+		padding: 10px 15px 15px 15px;
+		z-index: 9999;
+	}
+
+	#country, #country_2, #country_3, #country_4
+	{
+    	width: 100%;
+		padding: 0 10px 0 10px;
+		margin-top: 10px;
+	    border: none;
+    	background-color: #ffffff;
+    	color: #000;
+		height: 36px;
+		font-size: 15px;-webkit-border-radius: 3px;
+    	-moz-border-radius: 3px;
+    	border-radius: 3px;
+    	margin-bottom: 7px;
+    	font-family: "SegoeUI-Italic",sans-serif;
+	}
+
+	#country:focus, #country_2:focus, #country_3:focus, #country_4:focus
+	{
+		color: #111;
+	}
+
+	#name
+	{
+	    width: 100%;
+		padding: 0 10px 0 10px;
+		margin-top: 10px;
+	    border: none;
+    	background-color: #ffffff;
+    	color: #000;
+		height: 36px;
+		font-size: 15px;-webkit-border-radius: 3px;
+    	-moz-border-radius: 3px;
+    	border-radius: 3px;
+    	margin-bottom: 7px;
+    	font-family: "SegoeUI-Italic",sans-serif;
+    }
+
+	#country_phone, #country_phone_2, #country_phone_3, #country_phone_4
+	{
+		float: left;
+	    width: 20%;
+		padding: 0 10px 0 10px;
+		margin-top: 10px;
+	    border: none;
+    	background-color: #ffffff;
+    	color: #000;
+		height: 36px;
+		font-size: 15px;-webkit-border-radius: 3px;
+    	-moz-border-radius: 3px;
+    	border-radius: 3px;
+    	margin-bottom: 7px;
+    	font-family: "SegoeUI-Italic",sans-serif;
+	}
+
+	#phone
+	{
+		float: right;
+		width: 75%;
+		padding: 0 10px 0 10px;
+		margin-top: 10px;
+	    border: none;
+    	background-color: #ffffff;
+    	color: #000;
+		height: 36px;
+		font-size: 15px;-webkit-border-radius: 3px;
+    	-moz-border-radius: 3px;
+    	border-radius: 3px;
+    	margin-bottom: 7px;
+    	font-family: "SegoeUI-Italic",sans-serif;
+	}
+
+	.old_price
+	{
+		max-width: 400px;
+	    margin: 15px auto;
+	    font-size: 22px;
+	    width: 95%;
+	    padding: 15px;
+	    padding-left: 0;
+	}
+
+	.red-price
+	{
+		margin-left: 10px;
+		color: red;
+		font-size: 22px;
+		font-weight: 600;
+		text-decoration: line-through;
+	}
+
+	.new_price
+	{
+		margin: 15px auto;
+		font-size: 26px;
+		font-weight: 600;
+		max-width: 400px;
+		width: 95%;
+		text-align: right;
+		padding: 15px;
+	    padding-left: 0;
+	}
+
+	.green-price
+	{
+		margin-left: 10px;
+		color: #000;
+		font-size: 26px;
+		font-weight: 600;
+	}
+
+	.button
+	{
+		background: #fff; 
+		color: #E32024; 
+		padding: 15px; 
+		margin: 5px auto;
+    	width: 100%; 
+		font-weight: bold; 
+		text-transform: uppercase; 
+		font-size: 26px; 
+		cursor: pointer;
+		text-align: center;
+		border-radius: 4px;
+	}
+
+	.button h3
+	{
+		color: #E32024;
+		line-height: 0;
+		margin-top: 0px;
+    	margin-bottom: 0px;
+    	padding: 8px 0;
+    	font-weight: 600;
+    	letter-spacing: 0.3px;
+	}
+
+	.right-col-order .article-text
+	{
+		max-width: 400px;
+    	width: 95%;
+	}
+
+	.prices
+	{
+		position: relative;
+		display: block;
+		text-align: center;
+		width: 100%;
+		margin: 10px auto;
+	}
+}
+
+@media only screen and (min-width:581px)
+{
+	.formularz
+	{
+		padding: 10px 15px 15px 15px;
+		z-index: 9999;
+	}
+
+	#country, #country_2, #country_3, #country_4
+	{
+    	width: 100%;
+		padding: 0 10px 0 10px;
+		margin-top: 10px;
+	    border: none;
+    	background-color: #ffffff;
+    	color: #000;
+		height: 36px;
+		font-size: 15px;-webkit-border-radius: 3px;
+    	-moz-border-radius: 3px;
+    	border-radius: 3px;
+    	margin-bottom: 7px;
+    	font-family: "SegoeUI-Italic",sans-serif;
+	}
+
+	#country:focus, #country_2:focus, #country_3:focus, #country_4:focus
+	{
+		color: #111;
+	}
+
+	#name
+	{
+	    width: 100%;
+		padding: 0 10px 0 10px;
+		margin-top: 10px;
+	    border: none;
+    	background-color: #ffffff;
+    	color: #000;
+		height: 36px;
+		font-size: 15px;-webkit-border-radius: 3px;
+    	-moz-border-radius: 3px;
+    	border-radius: 3px;
+    	margin-bottom: 7px;
+    	font-family: "SegoeUI-Italic",sans-serif;
+    }
+
+	#country_phone, #country_phone_2, #country_phone_3, #country_phone_4
+	{
+		float: left;
+	    width: 20%;
+		padding: 0 10px 0 10px;
+		margin-top: 10px;
+	    border: none;
+    	background-color: #ffffff;
+    	color: #000;
+		height: 36px;
+		font-size: 15px;-webkit-border-radius: 3px;
+    	-moz-border-radius: 3px;
+    	border-radius: 3px;
+    	margin-bottom: 7px;
+    	font-family: "SegoeUI-Italic",sans-serif;
+	}
+
+	#phone
+	{
+		float: right;
+		width: 75%;
+		padding: 0 10px 0 10px;
+		margin-top: 10px;
+	    border: none;
+    	background-color: #ffffff;
+    	color: #000;
+		height: 36px;
+		font-size: 15px;-webkit-border-radius: 3px;
+    	-moz-border-radius: 3px;
+    	border-radius: 3px;
+    	margin-bottom: 7px;
+    	font-family: "SegoeUI-Italic",sans-serif;
+	}
+
+	.old_price
+	{
+		max-width: 400px;
+	    margin: 15px auto;
+	    font-size: 24px;
+	    width: 95%;
+	    padding: 15px;
+	    padding-left: 0;
+	}
+
+	.red-price
+	{
+		margin-left: 10px;
+		color: red;
+		font-size: 26px;
+		font-weight: 600;
+		text-decoration: line-through;
+	}
+
+	.new_price
+	{
+		margin: 15px auto;
+		font-size: 30px;
+		font-weight: 600;
+		max-width: 400px;
+		width: 95%;
+		text-align: right;
+		padding: 15px;
+	    padding-left: 0;
+	}
+
+	.green-price
+	{
+		margin-left: 10px;
+		color: #000;
+		font-size: 32px;
+		font-weight: 600;
+	}
+
+	.button
+	{
+		background: #fff; 
+		color: #E32024; 
+		padding: 15px; 
+		margin: 5px auto;
+    	width: 100%; 
+		font-weight: bold; 
+		text-transform: uppercase; 
+		font-size: 26px; 
+		cursor: pointer;
+		text-align: center;
+		border-radius: 4px;
+	}
+
+	.button h3
+	{
+		color: #E32024;
+		line-height: 0;
+		margin-top: 0px;
+    	margin-bottom: 0px;
+    	padding: 8px 0;
+    	font-weight: 600;
+    	letter-spacing: 0.3px;
+	}
+
+	.right-col-order .article-text
+	{
+		max-width: 400px;
+    	width: 95%;
+	}
+
+	.prices
+	{
+		position: relative;
+		display: block;
+		text-align: center;
+		width: 100%;
+		margin: 10px auto;
+	}
+}
+
