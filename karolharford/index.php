@@ -29,10 +29,10 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 		<div class="header-top-1">
 			<div class="container">
 				<div class="left-col-header-top-1">
-					<a href="/Lend/">
+					<a href="/vigordic/">
 						<h1>Zadbaj o zdrowie</h1>
 					</a>
-					<a href="/Lend/">
+					<a href="/vigordic/">
 						<span>zdrowotne abc</span>
 					</a>
 				</div>
@@ -41,7 +41,7 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 						<input type="text" name="search" placeholder="Wyszukaj w serwisie" />
 					</div>
 
-					<a href="/Lend/">
+					<a href="/vigordic/">
 						<div class="more">
 							<span>WIĘCEJ</span>
 						</div>
@@ -54,34 +54,34 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 			<div class="container">
 				<div class="menu">
 					<ul>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>ZDROWIE</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>ŻYWIENIE</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>CIĄŻA I DZIECKO</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>URODA</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>AKTYWNOŚĆ FIZYCZNA</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>PSYCHOLOGIA</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li id="select-menu">SEKS</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>KALKULATORY</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>#ZDROWAPOLKA</li>
 						</a>
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<li>WAŻNE TEMATY</li>
 						</a>
 					</ul>
@@ -95,7 +95,7 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 	<div class="container">
 		<div class="left-col">
 			<section class="sec-1">
-				<a href="/Lend/">
+				<a href="/vigordic/">
 					<span class="gray"><i class="blackedbold">Zdrowie seksualne</i> &nbsp;&nbsp;&nbsp;&nbsp;Opis badania
 						&nbsp;&nbsp;&nbsp;&nbsp;Zdrowie &nbsp;&nbsp;&nbsp;&nbsp; Przełomowa kuracja powiększająca</span>
 				</a>
@@ -407,7 +407,7 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 				<div class="border-big"></div>
 
-				<a href="/Lend/">
+				<a href="/vigordic/">
 					<span class="gray"><i class="blackedbold">Zdrowie seksualne</i> &nbsp;&nbsp;&nbsp;&nbsp;Opis badania
 						&nbsp;&nbsp;&nbsp;&nbsp;Zdrowie &nbsp;&nbsp;&nbsp;&nbsp; Przełomowa kuracja powiększająca</span>
 				</a>
@@ -426,7 +426,7 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 				<div class="link-2 center-text">
 					<p>
-						<a class="bluehiglighted" href="/Lend/">Kliknij tu, by otrzymać Vigordic ze zniżką i
+						<a class="bluehiglighted" href="/vigordic/">Kliknij tu, by otrzymać Vigordic ze zniżką i
 							powiększyć<br> penisa o 6,4 cm w 30 dni</a>
 					</p>
 				</div>
@@ -434,21 +434,21 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 				<div class="left-col-sec-3">
 					<p>Podziel się opinia</p>
 					<div class="margin-auto">
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<div class="frame-green">
 								<img src="img/ok_thumb.png" alt="ok_thumb" />
 								<p>98</p>
 							</div>
 						</a>
 
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<div class="frame-red">
 								<img src="img/not_ok_thumb.png" alt="not_ok_thumb" />
 								<p>76</p>
 							</div>
 						</a>
 
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<div class="frame-arrow">
 								<img src="img/arrow.png" alt="arrow" />
 							</div>
@@ -458,7 +458,7 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 				<div class="right-col-sec-3">
 					<div class="img-txt margin-auto">
-						<a href="/Lend/">
+						<a href="/vigordic/">
 							<img src="img/image1.png" alt="image1" />
 						</a>
 						<p>Bądź z nami na bieżąco</p>
@@ -512,11 +512,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 					<div class="clear"></div>
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/user.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Michał
 							</a>
 							<div class="commentcontent">
@@ -535,11 +535,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 					</div>
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/testprof3.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Kamil
 							</a>
 							<div class="commentcontent">
@@ -547,7 +547,7 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 									u mnie problemem liczył 12,5cm. Czasem był tak mały, że ledwie zanurzałem się w
 									pochwie. Teraz mam 20 cm pytona, który utrzymuje erekcję nawet do 33 minut.
 									Zamawiałem na tej specjalnej stronie ze zniżką: <a class="link-1"
-										href="/Lend/">http://goo.gl/zX686dF</a>
+										href="/vigordic/">http://goo.gl/zX686dF</a>
 								</div>
 								<div class="commentactions">
 									Odpowiedz <span class="dotpos">.</span> <img src="img/likethumb.png" alt="Thumb"> 3
@@ -560,11 +560,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/testprof2.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Waldek
 							</a>
 							<div class="commentcontent">
@@ -583,11 +583,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 					</div>
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/testprof1.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Kacper
 							</a>
 							<div class="commentcontent">
@@ -607,11 +607,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 					</div>
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/user.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Dariusz
 							</a>
 							<div class="commentcontent">
@@ -630,11 +630,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 					</div>
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/user.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Arkadiusz
 							</a>
 							<div class="commentcontent">
@@ -653,11 +653,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 					</div>
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/testprof5.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Karol
 							</a>
 							<div class="commentcontent">
@@ -674,11 +674,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 					</div>
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/user.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Agata
 							</a>
 							<div class="commentcontent">
@@ -700,11 +700,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/testprof8.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Roman
 							</a>
 							<div class="commentcontent">
@@ -724,11 +724,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/user.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Łukasz
 							</a>
 							<div class="commentcontent">
@@ -747,11 +747,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/testprof10.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Rafał
 							</a>
 							<div class="commentcontent">
@@ -770,11 +770,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 					<hr class="commentunderline">
 					<div class="profile">
-						<a class="profileimage" href="/Lend/">
+						<a class="profileimage" href="/vigordic/">
 							<img src="img/user.jpg" alt="profilowe">
 						</a>
 						<div class="commentstextcontainer">
-							<a class="commentname" href="/Lend/">
+							<a class="commentname" href="/vigordic/">
 								Adam
 							</a>
 							<div class="commentcontent">
@@ -826,7 +826,7 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 
 				<div class="center-text">
-					<a href="/Lend/">
+					<a href="/vigordic/">
 						<img class="right-picture" src="img/look-picture.jpg" alt="look-picture" />
 					</a>
 				</div>
@@ -840,11 +840,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 						</div>
 						<div class="right-col-f">
 							<div class="right-txt">
-								<a href="/Lend/">
+								<a href="/vigordic/">
 									<p>Kompleks małego penisa.</p>
 								</a>
 							</div>
-							<a href="/Lend/">
+							<a href="/vigordic/">
 								<div class="btn-more">
 									<span>ODWIEDŹ</span>
 								</div>
@@ -862,11 +862,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 						</div>
 						<div class="right-col-f">
 							<div class="right-txt">
-								<a href="/Lend/">
+								<a href="/vigordic/">
 									<p>Rozmiar penisa - czy ma znaczenie?</p>
 								</a>
 							</div>
-							<a href="/Lend/">
+							<a href="/vigordic/">
 								<div class="btn-more">
 									<span>ODWIEDŹ</span>
 								</div>
@@ -884,11 +884,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 						</div>
 						<div class="right-col-f">
 							<div class="right-txt">
-								<a href="/Lend/">
+								<a href="/vigordic/">
 									<p>Krzywy penis - czy to normalne?</p>
 								</a>
 							</div>
-							<a href="/Lend/">
+							<a href="/vigordic/">
 								<div class="btn-more">
 									<span>ODWIEDŹ</span>
 								</div>
@@ -906,11 +906,11 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 						</div>
 						<div class="right-col-f">
 							<div class="right-txt">
-								<a href="/Lend/">
+								<a href="/vigordic/">
 									<p>Co lubią kobiety w łóżku?</p>
 								</a>
 							</div>
-							<a href="/Lend/">
+							<a href="/vigordic/">
 								<div class="btn-more">
 									<span>ODWIEDŹ</span>
 								</div>
@@ -924,7 +924,7 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 
 			<div class="read-more"></div>
 			<div class="product">
-				<a href="/Lend/">
+				<a href="/vigordic/">
 					<img src="img/floating-img.jpg" alt="floating-img" id="flyingImage" />
 				</a>
 			</div>
@@ -940,16 +940,16 @@ foreach ( $pixels as $px ) if (isset( $_GET[$px] )) {
 	<div id="fixed-menu">
 		<h3>Menu</h3>
 		<div class="show-menu">
-			<a href="/Lend/">ZDROWIE</a>
-			<a href="/Lend/">ŻYWIENIE</a>
-			<a href="/Lend/">CIĄŻA I DZIECKO</a>
-			<a href="/Lend/">URODA</a>
-			<a href="/Lend/">AKTYWNOŚĆ FIZYCZNA</a>
-			<a href="/Lend/">PSYCHOLOGIA</a>
-			<a href="/Lend/">SEKS</a>
-			<a href="/Lend/">KALKULATORY</a>
-			<a href="/Lend/">#ZDROWAPOLKA</a>
-			<a href="/Lend/">WAŻNE TEMATY</a>
+			<a href="/vigordic/">ZDROWIE</a>
+			<a href="/vigordic/">ŻYWIENIE</a>
+			<a href="/vigordic/">CIĄŻA I DZIECKO</a>
+			<a href="/vigordic/">URODA</a>
+			<a href="/vigordic/">AKTYWNOŚĆ FIZYCZNA</a>
+			<a href="/vigordic/">PSYCHOLOGIA</a>
+			<a href="/vigordic/">SEKS</a>
+			<a href="/vigordic/">KALKULATORY</a>
+			<a href="/vigordic/">#ZDROWAPOLKA</a>
+			<a href="/vigordic/">WAŻNE TEMATY</a>
 		</div>
 	</div>
 
